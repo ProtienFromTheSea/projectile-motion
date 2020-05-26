@@ -15,4 +15,4 @@ A few notes about the files:
 3.) There are some bitmap images of arrows in the resources, this is because I originally wanted to use them to preview the starting angles.\
 (Since I couldn't figure it out, I now use the drawline method, but that doesn't work perfectly. Feel free to fix it to use the arrows and share it with me.)
 
-Also check out my poster at 
+Also check out my poster. (It's a PDF. Make sure to keep seperate from the actual project files)
