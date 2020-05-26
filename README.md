@@ -12,7 +12,7 @@ A few notes about the files:
 2.) Because I am new to Git and it makes no sense to me, there is no gitignore file since it messed up my files.\
 (Consequently, this project contains a load of unnecessary stuff.)
 
-3.) There are some bitmap images of arrows in the resources, this is because I originally wanted to use them to preview the trajectories.\
-(Since I couldn't figure it out, I now use drawline method, but that doesn't work perfectly. Feel free to fix it to use the arrows and share it with me.)
+3.) There are some bitmap images of arrows in the resources, this is because I originally wanted to use them to preview the starting angles.\
+(Since I couldn't figure it out, I now use the drawline method, but that doesn't work perfectly. Feel free to fix it to use the arrows and share it with me.)
 
 Also check out my poster at 
