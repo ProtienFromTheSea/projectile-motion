@@ -13,6 +13,6 @@ A few notes about the files:
 (Consequently, this project contains a load of unnecessary stuff.)
 
 3.) There are some bitmap images of arrows in the resources, this is because I originally wanted to use them to preview the trajectories.\
-(Since I couldn't figure it out, I now use drawline method, but that doesn't work perfecly. Feel free to fix it to use the arrows and share it with me.)
+(Since I couldn't figure it out, I now use drawline method, but that doesn't work perfectly. Feel free to fix it to use the arrows and share it with me.)
 
 Also check out my poster at 
