@@ -7,7 +7,8 @@ A few notes about the files:
 
 1.) The layout of the files is the exact same as the way that Visual Studio creates them.\
 1.1) This means that you can use it directly in Visual Studio for Windows.\
-1.1.1) Also, Visual Studio is the best way to veiw these files.
+1.1.1) Also, Visual Studio is the best way to veiw these files.\
+1.2) If you're lazy here's the path to the [executable](https://github.com/ProtienFromTheSea/projectile-motion/blob/master/Science%20Fair%20Projectile%20Motion/obj/Debug/Science%20Fair%20Projectile%20Motion.exe)
 
 2.) Because I am new to Git and it makes no sense to me, there is no gitignore file since it messed up my files.\
 (Consequently, this project contains a load of unnecessary stuff.)
